@@ -18,7 +18,7 @@ el archivo jmx_examples.zip ha sido descargado desde : https://docs.oracle.com/j
 5.2) En la interfaz, sale un popup con el resultado "13".
 6.1) En la interfaz, en "Attributes", en "Name", se ve el valor en lectura sólo "Reginald".
 7.1) En la interfaz, en "Attributes", en "CacheSize", en la sección "Attribute value", cambiar el valor de CacheSize de 200 a 300 y clicar en el botón [Refresh].
-7.2) En la interfaz, se ve que cambió el valor de CacheSize a 300.
+7.2) En la interfaz, se ve que cambió el valor de CacheSize a 300. Y en el terminal dónde se enseñó el mensaje "Waiting forever...", ahora se ve el mensaje "Cache size now 300".
 
 
 doc JMX : https://docs.oracle.com/javase/6/docs/technotes/guides/jmx/index.html
